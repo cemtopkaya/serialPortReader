@@ -1,0 +1,9 @@
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\bin\Debug\wfEnumDeneme.exe
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\bin\Debug\wfEnumDeneme.pdb
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\wfEnumDeneme.Form1.resources
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\wfEnumDeneme.Properties.Resources.resources
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\wfEnumDeneme.exe
+D:\Projeler\wfEnumDeneme\wfEnumDeneme\obj\x86\Debug\wfEnumDeneme.pdb
